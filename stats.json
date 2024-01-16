@@ -1,12 +1,12 @@
 {
   "name": "client",
-  "hash": "09fe2b97fc371f79b193",
+  "hash": "111d746cacc54b356f21",
   "publicPath": "/",
   "outputPath": "/Users/tonymyrato/Desktop/medical-retest/dist",
   "assetsByChunkName": {
     "main": [
-      "main.67d83263476bd379d42a.js",
-      "main.18d5e1e91f5c99d2ffee.css"
+      "main.62978a751f3b27cc0a66.js",
+      "main.0a1f6921cd44d1af7269.css"
     ],
     "vendors": [
       "vendors.f710f69f19e9ab499df8.js"
@@ -45,14 +45,14 @@
     },
     {
       "type": "asset",
-      "name": "main.18d5e1e91f5c99d2ffee.css",
-      "size": 226269,
+      "name": "main.0a1f6921cd44d1af7269.css",
+      "size": 226705,
       "emitted": false,
       "comparedForEmit": false,
       "cached": true,
       "info": {
         "immutable": true,
-        "contenthash": "18d5e1e91f5c99d2ffee"
+        "contenthash": "0a1f6921cd44d1af7269"
       },
       "chunkNames": [
         "main"
@@ -67,14 +67,14 @@
     },
     {
       "type": "asset",
-      "name": "main.67d83263476bd379d42a.js",
-      "size": 10555,
+      "name": "main.62978a751f3b27cc0a66.js",
+      "size": 11682,
       "emitted": false,
       "comparedForEmit": false,
       "cached": true,
       "info": {
         "immutable": true,
-        "chunkhash": "67d83263476bd379d42a",
+        "chunkhash": "62978a751f3b27cc0a66",
         "javascriptModule": false,
         "minimized": true
       },
@@ -157,10 +157,10 @@
           "name": "vendors.f710f69f19e9ab499df8.js"
         },
         {
-          "name": "main.67d83263476bd379d42a.js"
+          "name": "main.62978a751f3b27cc0a66.js"
         },
         {
-          "name": "main.18d5e1e91f5c99d2ffee.css"
+          "name": "main.0a1f6921cd44d1af7269.css"
         }
       ],
       "filteredAssets": 0,
@@ -176,8 +176,8 @@
     {
       "id": 179,
       "files": [
-        "main.67d83263476bd379d42a.js",
-        "main.18d5e1e91f5c99d2ffee.css"
+        "main.62978a751f3b27cc0a66.js",
+        "main.0a1f6921cd44d1af7269.css"
       ]
     },
     {
