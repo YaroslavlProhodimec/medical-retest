@@ -1,7 +1,8 @@
-
+// @ts-ignore
+import React from "react";
 import {createApi, fetchBaseQuery} from "@reduxjs/toolkit/query/react";
-import { API_URL } from "../../../shared/config";
 import { PostType } from "../model/type";
+import { API_URL } from "../../../shared/config";
 
 
 

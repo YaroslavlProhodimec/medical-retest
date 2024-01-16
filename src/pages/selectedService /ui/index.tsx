@@ -1,6 +1,8 @@
 import styles from "./styles.module.scss";
 
 import { useParams } from "react-router-dom";
+
+// @ts-ignore
 import React from "react";
 import { Preloader } from "../../../shared/ui/preloader";
 import { Service } from "../../../widgets/postDetails/ui";

@@ -1,8 +1,10 @@
+// @ts-ignore
 import React from "react";
 import styles from "./styles.module.scss";
-import {motion} from 'framer-motion';
-import {TypeAnimation} from "react-type-animation";
+import { motion } from "framer-motion";
+import { TypeAnimation } from "react-type-animation";
 import {Link} from "react-router-dom";
+
 import { fadeIn } from "../../../shared/utils";
 
 export const NotFound = () => {

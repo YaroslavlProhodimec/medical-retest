@@ -1,4 +1,5 @@
 import { Header } from "../../../widgets/hearder";
+// @ts-ignore
 import React from "react";
 import { Posts } from "../../../widgets/posts/ui";
 
