@@ -104,6 +104,7 @@
     "@loadable/server": "5.15.3",
     "@loadable/webpack-plugin": "5.15.2",
     "@reduxjs/toolkit": "^1.9.6",
+    "@testing-library/react": "^14.1.2",
     "@types/loadable__webpack-plugin": "5.7.3",
     "bootstrap": "^5.3.2",
     "compression": "1.7.4",
